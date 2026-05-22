@@ -1,5 +1,4 @@
-# BMI-Calculator-App
-# 🏥 BMI Calculator App
+# 🏥 BMI-Calculator-App
 
 An Android app built using MIT App Inventor that helps users 
 calculate their Body Mass Index (BMI) instantly.
